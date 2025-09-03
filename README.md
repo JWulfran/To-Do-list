@@ -36,7 +36,7 @@ Ce projet présente une application **To-Do List** interactive, permettant à un
 
 ## 📷 Aperçu visuel _(à ajouter)_
 
-> [Capture d'écran](./images/Screenshort.png)
+> ![Capture d'écran](./images/Screenshort.png)
 
 ---
 
